@@ -2,8 +2,8 @@
 
 ### I'm a CS Under Grad Student , likes to code and developing software
 
-- 🖥️ I’m currently studying at [KUET](http://www.kuet.ac.bd/) in CSE , currently in 4th year
-- 📱 I’m currently working on an Android App
+- I’m currently studying at [KUET](http://www.kuet.ac.bd/) in CSE Department, currently in 4th year
+- I’m currently working on an Android App
 
 <br />
 
