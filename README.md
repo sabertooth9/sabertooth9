@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Nuhash 👋👋
 
-<!--
-**sabertooth9/sabertooth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a CS Under Grad Student , likes to code and developing software
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabertooth9&label=Views&color=blue&style=plastic" alt="sabertooth9" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ I’m currently studying at [KUET](http://www.kuet.ac.bd/) in CSE , currently in 4th year
+- 📱 I’m currently working on an Android App
+
+<br />
+
+<img align="left" alt="sabertooth9's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabertooth9&show_icons=true" />
+
